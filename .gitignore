@@ -1,0 +1,15 @@
+*
+
+!*/
+
+!.gitignore
+!*.md
+!*.ipynb
+*-checkpoint.ipynb
+!*.dia
+!*.svg
+!*.txt
+!*.csv
+
+
+
