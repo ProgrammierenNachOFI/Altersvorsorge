@@ -10,6 +10,8 @@
 !*.svg
 !*.txt
 !*.csv
+!*.yml
+!*.html
 
 
 
