@@ -6,7 +6,7 @@ Grundversorgung sicherstellen, die Pensionskasse den gewohnten
 Lebensstandard im Alter sichern und das freiwillige Sparen soll den
 Luxusbedarf abdecken.
 
-Hier findet sich ein Arbeitsblatt zur Datenvisualisierung im
+Hier findet sich eine Anleitung zur Datenvisualisierung im
 Zusammenhang mit der 
 [AHV](ahv.md).
 
