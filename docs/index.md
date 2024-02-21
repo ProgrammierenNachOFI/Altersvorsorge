@@ -11,5 +11,5 @@ Zusammenhang mit der
 [AHV](ahv.md).
 
 Um die aktuelle Situation der Pensionskasse zu analysieren wird hier ein
-[Jupyter Notebook](pensionskasse_muloe.ipynb)
+[Jupyter Notebook](https://colab.research.google.com/github/ProgrammierenNachOFI/Altersvorsorge/blob/main/docs/pensionskasse_sus.ipynb)
 zur Verfügung gestellt.
